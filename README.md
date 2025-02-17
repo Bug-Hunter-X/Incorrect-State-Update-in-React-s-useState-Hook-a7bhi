@@ -1,0 +1,2 @@
+# Incorrect State Update in React's useState Hook
+This example demonstrates a common error when working with React's `useState` hook.  The code attempts to update the state variable directly, which won't trigger a re-render.  The solution shows the correct way to update state using the setter function.
